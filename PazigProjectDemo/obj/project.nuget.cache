@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5r6vdPkiFzreNdlul3vZkfR0qkdArcAWkz97DBcYcPHetiq29HrcaDsXNmQeQpnP8++TXyfr6vU3rbHf4cN31g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aroza\\Desktop\\Studia_Praca\\Pazig_Projekt\\PazigProjektDemo\\PazigProjectDemo\\PazigProjectDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aroza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
