@@ -8,6 +8,8 @@ namespace PazigProjectDemo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("sdsdsdsd");
+
+            Console.WriteLine("Hello world");
         }
     }
 }
