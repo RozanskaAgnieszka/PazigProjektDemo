@@ -11,7 +11,5 @@ namespace PazigProjectDemo.Service.Interfaces
         double Add(double number1, double number2);
 
         double Minus(double number1, double number2);
-
-        double Multiplication(double number1, double number2);
     }
 }
